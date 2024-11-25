@@ -1,0 +1,106 @@
+.sec1{
+    border: 1px solid black;
+    margin: 5% 4%;
+    margin-left: 20%;
+    margin-right: 35%;
+    box-shadow: 1px 1px 1px white;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius:20px ;
+    
+}
+
+.one h5{
+    color: #0f6b4c;
+    margin-left: 90%;
+}
+.one h1,input, label,p{
+    margin-left: 25px;
+}
+.one input,label{
+    border: none;
+}
+.one hr{
+    margin-left: 5%;
+    margin-right: 4%;
+}
+.two  button{
+    color: white;
+    background-color: gray;
+    padding: 10px 24px;
+    padding-left: 20%;
+    padding-right: 20%;
+    border: none;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.two button:hover{
+    background-color: #0f6b4c;
+}
+.two button:active{
+    background-color: gainsboro;
+}
+.twp p{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.three{
+    padding-bottom: 10px;
+}
+.sec1{
+    border: 1px solid black;
+    margin: 5% 4%;
+    margin-left: 20%;
+    margin-right: 35%;
+    box-shadow: 1px 1px 1px white;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius:20px ;
+    
+}
+
+.one h5{
+    color: #0f6b4c;
+    margin-left: 90%;
+}
+.one h1,input, label,p{
+    margin-left: 25px;
+}
+.one input,label{
+    border: none;
+}
+.one hr{
+    margin-left: 5%;
+    margin-right: 4%;
+}
+.two  button{
+    color: white;
+    background-color: gray;
+    padding: 10px 24px;
+    padding-left: 20%;
+    padding-right: 20%;
+    border: none;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.two button:hover{
+    background-color: #0f6b4c;
+}
+.two button:active{
+    background-color: gainsboro;
+}
+.twp p{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.three{
+    padding-bottom: 10px;
+}

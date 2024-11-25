@@ -1,0 +1,272 @@
+*{
+    /* box-sizing: border-box; */
+    font-family: SoDoSans_Semibold, Helvetica, sans-serif;
+    /* border: 1px solid red; */
+}
+.navbar{
+   
+    margin-left: 8%;
+    margin-top: 1.5%;
+    color: #000;
+    padding-bottom: 1.5%;
+    vertical-align: center;
+    
+}
+.top{
+    text-decoration: none;
+    text-align: start;
+    
+}
+.top img{
+    
+}
+.top a{
+text-decoration: none;
+margin-right: 4%;
+vertical-align: middle;
+color: #000;
+font-family: SoDoSans_Semibold, Helvetica, sans-serif;
+}
+.top a:hover{
+    color: #54a791;
+}
+.top input{
+    width: 300px;
+    height: 35px;
+    border: 1px solid black;
+    border-radius: 18px;
+    margin-left: 80%;
+    padding-left: 10%;
+}
+.search-container {
+    position: relative;
+    display: inline-block;
+}
+
+.search-container input {
+    width: 300px;
+    height: 35px;
+    border: 0.5px solid #e4e3e3;
+
+    box-shadow: 2px 2px 2px gray;
+    border-radius: 18px;
+    padding-left: 35px;  /* Space for the icon */
+}
+
+.search-container i {
+    position: absolute;
+    left: 182px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 20px;
+    color: #888;
+}
+
+.top i{
+    margin-left: 22%;
+    font-size: 22px;
+}
+.sec2{
+    background-color: #1e3932;
+    color: white;
+    height: 80px;
+    margin-top: 0%;
+    
+}
+.greenbar p{
+ color: white;
+ margin-left: 80%;
+padding-top: 2%;
+font-weight: bold;
+font-size: 12.5px;
+}
+ .sec3 h1{
+    font-weight: bold;
+    font-size: 25px;
+margin-top: 3%;
+margin-left: 9%;
+}
+.hand{
+    padding-top: 5%;
+    padding-left: 12%;
+    font-weight: bolder;
+}
+.smlimgs{
+    margin-top: 0%;
+    margin-left: 10%;
+     padding: 2%; 
+     word-spacing: 3cm;
+}
+.smlimgs img{
+    vertical-align: middle;
+}
+#carouselExampleControls{
+    margin-top: 3%;
+    /* padding-top: 1%; */
+     /* padding-left: 15%;  */
+     /* padding-right: 15%;  */
+    /* padding-bottom: 1%; */
+    margin-right: 15%;
+    margin-left: 15%;
+    border-radius: 10px;
+    box-shadow: 1px 2px 3px gray;
+}
+
+.carousel-item active{
+    width: 800%;
+}
+.sec4{
+    background-color: #e7dfdf;
+  margin-top: 5%;
+    padding: 1% 2%;
+}
+.recom{
+    display: flex;
+    flex-direction: row;
+}
+
+
+.sec4 h1{
+    font-weight: bold;
+    font-size: 25px;
+margin-top: 3%;
+margin-left: 5%;
+padding: 1%;
+}
+.cappu{
+    border: 1px solid black;
+    border: none;
+    box-shadow: 1px 2px 3px gray;
+    border-radius: 10px;
+    height: 150px;
+    width: 350px;
+    margin-left: 7%;
+    background-color: white;
+    margin-bottom: 3%;
+    /* background-image: url('./img9.png'); */
+    background-size: 105%;
+    background-position: center;
+   
+}
+.cappu img{
+    padding-top: 3%;
+    padding-left: 1%;
+}
+.cappu h3{
+    padding-top: 5%;
+    font-size: 15px;
+    font-weight: bolder;
+}
+.cappu button{
+    background-color: #0e382c;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    height: 25px;
+    width: 100px !important;
+    margin-top: 85%;
+    margin-right: 10%;
+}
+.cappuflex{
+    display: flex;
+    flex-direction: row;
+}
+.sec5{
+    background-color: #e7dfdf;
+    margin-top: 3%;
+    padding: 2% 3%;
+}
+.sec5 h1{
+    margin-left: 8%;
+    font-size: 27px;
+    font-weight: bold;
+}
+.sec5 img{
+    margin-left: 10%;
+    border-radius: 12px;
+}
+
+
+
+ .guna{
+    background-color: #0e382c;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    height: 720px;
+    padding-top: 6%;
+    padding-left: 0%;
+}
+.guna div{
+    width: 20%;
+}
+ul li{
+    display: block;
+    font-weight: lighter;
+}
+.one li {
+    margin-top: 15%;
+    font-size: 15px;
+    font-weight: lighter;
+}
+.one lh{
+    font-weight: bold;
+    font-size: 18px;
+}
+#about li{
+    margin-top: 15%;
+    font-weight: -10;
+}
+.img{
+    padding-left: 8%;
+}
+.imgguna1{
+    border: 1px solid white;
+    border-radius: 10px;
+    border:none;
+
+}
+.imgguna2{
+    margin-top: 10%;
+    border: 1px solid white;
+    border-radius: 10px;
+    border:none;
+}
+.btn{
+    margin-right: 40px;
+}
+.link{
+    width: 90%;
+    height: 80px;
+    font-size: 14px;
+    display: flex;
+    flex-direction: row;
+    color: white;
+    margin-left: 5%;
+    margin-top: 1%;
+}
+.section2{
+    margin-bottom: 10%;
+}
+hr{
+    margin-left: 5%;
+
+    margin-right: 5%;
+}
+.rights{
+    padding-left: 56%;
+    font-size: 9px;
+
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: grey;
+} 
+.guna2{
+    margin-top: -1%;
+    background-color:#0e382c ;
+    color: white;
+}

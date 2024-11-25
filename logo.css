@@ -1,0 +1,24 @@
+.one{
+    margin-top: 13%;
+}
+body{
+    background-color: #faf6ee;
+}
+.one h1{
+    padding-top: 20px;
+    font-weight: bold;
+}
+.one button{
+    padding: 10px 24px;
+    padding-left: 45px;
+    padding-right: 45px;
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    border-radius: 20px 20px 20px 20px ;
+
+}
+.one a{
+    text-decoration: none;
+    color: white;
+}
